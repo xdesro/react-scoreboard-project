@@ -5,17 +5,17 @@ import './index.css';
 
 var PLAYERS = [
   {
-    name: "Jim Hoskins",
+    name: "Henry Desroches",
     score: 31,
     id: 1,
   },
   {
-    name: "Andrew Chalkley",
+    name: "Person McPherson",
     score: 35,
     id: 2,
   },
   {
-    name: "Alena Holligan",
+    name: "Fella O'Mann",
     score: 42,
     id: 3,
   },

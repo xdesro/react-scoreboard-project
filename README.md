@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-This is a simple "Scoreboard" app I built using React. The app was originally built using ES5 Syntax, which I ported over to ES6.
+This is a simple "Scoreboard" app I built using React. When I built the app originally, I was actually using ES5 Syntax and an outdated version of React. So before deployment, I had to spend some time porting over to ES6.
+
+The app is deployed to GitHub Pages using the gh-pages npm plugin.
 
 ## Features
 
