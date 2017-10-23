@@ -12,8 +12,6 @@ The app has a few pre-set players, each with their own score. A player's score c
 
 ## Setup
 
-After downloading, delete the `node_modules` folder, then run `npm install` in a Terminal window for this directory.
-
-`npm start` spins up the app, and will open a browser window. 
+`npm start` spins up the app, lints and livereloads. 
 
 `npm run build` will build the app, and `npm run deploy` will build and then deploy the app to GitHub Pages.
